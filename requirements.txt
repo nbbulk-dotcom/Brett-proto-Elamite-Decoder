@@ -4,3 +4,5 @@ scipy==1.13.1
 matplotlib==3.9.2
 soundfile==0.12.1
 pillow==10.4.0
+pandas>=2.0.0
+pydub>=0.25.1
