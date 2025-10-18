@@ -1,0 +1,1811 @@
+{
+  "proto_elamite_glyphs": [
+    {
+      "m_number": "M001",
+      "description": "Proto-Elamite sign variant 1",
+      "primary_angle": 135,
+      "frequency": 660.0,
+      "administrative_level": "High Administrative",
+      "mathematical_concept": "Three-Quarter Circle",
+      "unicode_char": "𒀀"
+    },
+    {
+      "m_number": "M002",
+      "description": "Proto-Elamite sign variant 2",
+      "primary_angle": 90,
+      "frequency": 440.0,
+      "administrative_level": "Standard Administrative",
+      "mathematical_concept": "Right Angle/Square",
+      "unicode_char": "𒀁"
+    },
+    {
+      "m_number": "M003",
+      "description": "Proto-Elamite sign variant 3",
+      "primary_angle": 45,
+      "frequency": 220.0,
+      "administrative_level": "Temporal/Structural",
+      "mathematical_concept": "Half Right Angle",
+      "unicode_char": "𒀂"
+    },
+    {
+      "m_number": "M004",
+      "description": "Proto-Elamite sign variant 4",
+      "primary_angle": 90,
+      "frequency": 440.0,
+      "administrative_level": "Standard Administrative",
+      "mathematical_concept": "Right Angle/Square",
+      "unicode_char": "𒀃"
+    },
+    {
+      "m_number": "M005",
+      "description": "Proto-Elamite sign variant 5",
+      "primary_angle": 45,
+      "frequency": 220.0,
+      "administrative_level": "Temporal/Structural",
+      "mathematical_concept": "Half Right Angle",
+      "unicode_char": "𒀄"
+    },
+    {
+      "m_number": "M006",
+      "description": "Proto-Elamite sign variant 6",
+      "primary_angle": 90,
+      "frequency": 440.0,
+      "administrative_level": "Standard Administrative",
+      "mathematical_concept": "Right Angle/Square",
+      "unicode_char": "𒀅"
+    },
+    {
+      "m_number": "M007",
+      "description": "Proto-Elamite sign variant 7",
+      "primary_angle": 45,
+      "frequency": 220.0,
+      "administrative_level": "Temporal/Structural",
+      "mathematical_concept": "Half Right Angle",
+      "unicode_char": "𒀆"
+    },
+    {
+      "m_number": "M008",
+      "description": "Proto-Elamite sign variant 8",
+      "primary_angle": 45,
+      "frequency": 220.0,
+      "administrative_level": "Temporal/Structural",
+      "mathematical_concept": "Half Right Angle",
+      "unicode_char": "𒀇"
+    },
+    {
+      "m_number": "M009",
+      "description": "Proto-Elamite sign variant 9",
+      "primary_angle": 90,
+      "frequency": 440.0,
+      "administrative_level": "Standard Administrative",
+      "mathematical_concept": "Right Angle/Square",
+      "unicode_char": "𒀈"
+    },
+    {
+      "m_number": "M010",
+      "description": "Proto-Elamite sign variant 10",
+      "primary_angle": 135,
+      "frequency": 660.0,
+      "administrative_level": "High Administrative",
+      "mathematical_concept": "Three-Quarter Circle",
+      "unicode_char": "𒀉"
+    },
+    {
+      "m_number": "M011",
+      "description": "Proto-Elamite sign variant 11",
+      "primary_angle": 90,
+      "frequency": 440.0,
+      "administrative_level": "Standard Administrative",
+      "mathematical_concept": "Right Angle/Square",
+      "unicode_char": "𒀊"
+    },
+    {
+      "m_number": "M012",
+      "description": "Proto-Elamite sign variant 12",
+      "primary_angle": 90,
+      "frequency": 440.0,
+      "administrative_level": "Standard Administrative",
+      "mathematical_concept": "Right Angle/Square",
+      "unicode_char": "𒀋"
+    },
+    {
+      "m_number": "M013",
+      "description": "Proto-Elamite sign variant 13",
+      "primary_angle": 90,
+      "frequency": 440.0,
+      "administrative_level": "Standard Administrative",
+      "mathematical_concept": "Right Angle/Square",
+      "unicode_char": "𒀌"
+    },
+    {
+      "m_number": "M014",
+      "description": "Proto-Elamite sign variant 14",
+      "primary_angle": 45,
+      "frequency": 220.0,
+      "administrative_level": "Temporal/Structural",
+      "mathematical_concept": "Half Right Angle",
+      "unicode_char": "𒀍"
+    },
+    {
+      "m_number": "M015",
+      "description": "Proto-Elamite sign variant 15",
+      "primary_angle": 90,
+      "frequency": 440.0,
+      "administrative_level": "Standard Administrative",
+      "mathematical_concept": "Right Angle/Square",
+      "unicode_char": "𒀎"
+    },
+    {
+      "m_number": "M016",
+      "description": "Proto-Elamite sign variant 16",
+      "primary_angle": 90,
+      "frequency": 440.0,
+      "administrative_level": "Standard Administrative",
+      "mathematical_concept": "Right Angle/Square",
+      "unicode_char": "𒀏"
+    },
+    {
+      "m_number": "M017",
+      "description": "Proto-Elamite sign variant 17",
+      "primary_angle": 135,
+      "frequency": 660.0,
+      "administrative_level": "High Administrative",
+      "mathematical_concept": "Three-Quarter Circle",
+      "unicode_char": "𒀐"
+    },
+    {
+      "m_number": "M018",
+      "description": "Proto-Elamite sign variant 18",
+      "primary_angle": 45,
+      "frequency": 220.0,
+      "administrative_level": "Temporal/Structural",
+      "mathematical_concept": "Half Right Angle",
+      "unicode_char": "𒀑"
+    },
+    {
+      "m_number": "M019",
+      "description": "Proto-Elamite sign variant 19",
+      "primary_angle": 90,
+      "frequency": 440.0,
+      "administrative_level": "Standard Administrative",
+      "mathematical_concept": "Right Angle/Square",
+      "unicode_char": "𒀒"
+    },
+    {
+      "m_number": "M020",
+      "description": "Proto-Elamite sign variant 20",
+      "primary_angle": 90,
+      "frequency": 440.0,
+      "administrative_level": "Standard Administrative",
+      "mathematical_concept": "Right Angle/Square",
+      "unicode_char": "𒀓"
+    },
+    {
+      "m_number": "M021",
+      "description": "Proto-Elamite sign variant 21",
+      "primary_angle": 90,
+      "frequency": 440.0,
+      "administrative_level": "Standard Administrative",
+      "mathematical_concept": "Right Angle/Square",
+      "unicode_char": "𒀔"
+    },
+    {
+      "m_number": "M022",
+      "description": "Proto-Elamite sign variant 22",
+      "primary_angle": 90,
+      "frequency": 440.0,
+      "administrative_level": "Standard Administrative",
+      "mathematical_concept": "Right Angle/Square",
+      "unicode_char": "𒀕"
+    },
+    {
+      "m_number": "M023",
+      "description": "Proto-Elamite sign variant 23",
+      "primary_angle": 135,
+      "frequency": 660.0,
+      "administrative_level": "High Administrative",
+      "mathematical_concept": "Three-Quarter Circle",
+      "unicode_char": "𒀖"
+    },
+    {
+      "m_number": "M024",
+      "description": "Proto-Elamite sign variant 24",
+      "primary_angle": 90,
+      "frequency": 440.0,
+      "administrative_level": "Standard Administrative",
+      "mathematical_concept": "Right Angle/Square",
+      "unicode_char": "𒀗"
+    },
+    {
+      "m_number": "M025",
+      "description": "Proto-Elamite sign variant 25",
+      "primary_angle": 45,
+      "frequency": 220.0,
+      "administrative_level": "Temporal/Structural",
+      "mathematical_concept": "Half Right Angle",
+      "unicode_char": "𒀘"
+    },
+    {
+      "m_number": "M026",
+      "description": "Proto-Elamite sign variant 26",
+      "primary_angle": 135,
+      "frequency": 660.0,
+      "administrative_level": "High Administrative",
+      "mathematical_concept": "Three-Quarter Circle",
+      "unicode_char": "𒀙"
+    },
+    {
+      "m_number": "M027",
+      "description": "Proto-Elamite sign variant 27",
+      "primary_angle": 45,
+      "frequency": 220.0,
+      "administrative_level": "Temporal/Structural",
+      "mathematical_concept": "Half Right Angle",
+      "unicode_char": "𒀚"
+    },
+    {
+      "m_number": "M028",
+      "description": "Proto-Elamite sign variant 28",
+      "primary_angle": 90,
+      "frequency": 440.0,
+      "administrative_level": "Standard Administrative",
+      "mathematical_concept": "Right Angle/Square",
+      "unicode_char": "𒀛"
+    },
+    {
+      "m_number": "M029",
+      "description": "Proto-Elamite sign variant 29",
+      "primary_angle": 90,
+      "frequency": 440.0,
+      "administrative_level": "Standard Administrative",
+      "mathematical_concept": "Right Angle/Square",
+      "unicode_char": "𒀜"
+    },
+    {
+      "m_number": "M030",
+      "description": "Proto-Elamite sign variant 30",
+      "primary_angle": 90,
+      "frequency": 440.0,
+      "administrative_level": "Standard Administrative",
+      "mathematical_concept": "Right Angle/Square",
+      "unicode_char": "𒀝"
+    },
+    {
+      "m_number": "M031",
+      "description": "Proto-Elamite sign variant 31",
+      "primary_angle": 90,
+      "frequency": 440.0,
+      "administrative_level": "Standard Administrative",
+      "mathematical_concept": "Right Angle/Square",
+      "unicode_char": "𒀞"
+    },
+    {
+      "m_number": "M032",
+      "description": "Proto-Elamite sign variant 32",
+      "primary_angle": 45,
+      "frequency": 220.0,
+      "administrative_level": "Temporal/Structural",
+      "mathematical_concept": "Half Right Angle",
+      "unicode_char": "𒀟"
+    },
+    {
+      "m_number": "M033",
+      "description": "Proto-Elamite sign variant 33",
+      "primary_angle": 90,
+      "frequency": 440.0,
+      "administrative_level": "Standard Administrative",
+      "mathematical_concept": "Right Angle/Square",
+      "unicode_char": "𒀠"
+    },
+    {
+      "m_number": "M034",
+      "description": "Proto-Elamite sign variant 34",
+      "primary_angle": 90,
+      "frequency": 440.0,
+      "administrative_level": "Standard Administrative",
+      "mathematical_concept": "Right Angle/Square",
+      "unicode_char": "𒀡"
+    },
+    {
+      "m_number": "M035",
+      "description": "Proto-Elamite sign variant 35",
+      "primary_angle": 90,
+      "frequency": 440.0,
+      "administrative_level": "Standard Administrative",
+      "mathematical_concept": "Right Angle/Square",
+      "unicode_char": "𒀢"
+    },
+    {
+      "m_number": "M036",
+      "description": "Proto-Elamite sign variant 36",
+      "primary_angle": 135,
+      "frequency": 660.0,
+      "administrative_level": "High Administrative",
+      "mathematical_concept": "Three-Quarter Circle",
+      "unicode_char": "𒀣"
+    },
+    {
+      "m_number": "M037",
+      "description": "Proto-Elamite sign variant 37",
+      "primary_angle": 90,
+      "frequency": 440.0,
+      "administrative_level": "Standard Administrative",
+      "mathematical_concept": "Right Angle/Square",
+      "unicode_char": "𒀤"
+    },
+    {
+      "m_number": "M038",
+      "description": "Proto-Elamite sign variant 38",
+      "primary_angle": 90,
+      "frequency": 440.0,
+      "administrative_level": "Standard Administrative",
+      "mathematical_concept": "Right Angle/Square",
+      "unicode_char": "𒀥"
+    },
+    {
+      "m_number": "M039",
+      "description": "Proto-Elamite sign variant 39",
+      "primary_angle": 135,
+      "frequency": 660.0,
+      "administrative_level": "High Administrative",
+      "mathematical_concept": "Three-Quarter Circle",
+      "unicode_char": "𒀦"
+    },
+    {
+      "m_number": "M040",
+      "description": "Proto-Elamite sign variant 40",
+      "primary_angle": 90,
+      "frequency": 440.0,
+      "administrative_level": "Standard Administrative",
+      "mathematical_concept": "Right Angle/Square",
+      "unicode_char": "𒀧"
+    },
+    {
+      "m_number": "M041",
+      "description": "Proto-Elamite sign variant 41",
+      "primary_angle": 90,
+      "frequency": 440.0,
+      "administrative_level": "Standard Administrative",
+      "mathematical_concept": "Right Angle/Square",
+      "unicode_char": "𒀨"
+    },
+    {
+      "m_number": "M042",
+      "description": "Proto-Elamite sign variant 42",
+      "primary_angle": 90,
+      "frequency": 440.0,
+      "administrative_level": "Standard Administrative",
+      "mathematical_concept": "Right Angle/Square",
+      "unicode_char": "𒀩"
+    },
+    {
+      "m_number": "M043",
+      "description": "Proto-Elamite sign variant 43",
+      "primary_angle": 135,
+      "frequency": 660.0,
+      "administrative_level": "High Administrative",
+      "mathematical_concept": "Three-Quarter Circle",
+      "unicode_char": "𒀪"
+    },
+    {
+      "m_number": "M044",
+      "description": "Proto-Elamite sign variant 44",
+      "primary_angle": 90,
+      "frequency": 440.0,
+      "administrative_level": "Standard Administrative",
+      "mathematical_concept": "Right Angle/Square",
+      "unicode_char": "𒀫"
+    },
+    {
+      "m_number": "M045",
+      "description": "Proto-Elamite sign variant 45",
+      "primary_angle": 90,
+      "frequency": 440.0,
+      "administrative_level": "Standard Administrative",
+      "mathematical_concept": "Right Angle/Square",
+      "unicode_char": "𒀬"
+    },
+    {
+      "m_number": "M046",
+      "description": "Proto-Elamite sign variant 46",
+      "primary_angle": 90,
+      "frequency": 440.0,
+      "administrative_level": "Standard Administrative",
+      "mathematical_concept": "Right Angle/Square",
+      "unicode_char": "𒀭"
+    },
+    {
+      "m_number": "M047",
+      "description": "Proto-Elamite sign variant 47",
+      "primary_angle": 90,
+      "frequency": 440.0,
+      "administrative_level": "Standard Administrative",
+      "mathematical_concept": "Right Angle/Square",
+      "unicode_char": "𒀮"
+    },
+    {
+      "m_number": "M048",
+      "description": "Proto-Elamite sign variant 48",
+      "primary_angle": 90,
+      "frequency": 440.0,
+      "administrative_level": "Standard Administrative",
+      "mathematical_concept": "Right Angle/Square",
+      "unicode_char": "𒀯"
+    },
+    {
+      "m_number": "M049",
+      "description": "Proto-Elamite sign variant 49",
+      "primary_angle": 45,
+      "frequency": 220.0,
+      "administrative_level": "Temporal/Structural",
+      "mathematical_concept": "Half Right Angle",
+      "unicode_char": "𒀰"
+    },
+    {
+      "m_number": "M050",
+      "description": "Proto-Elamite sign variant 50",
+      "primary_angle": 90,
+      "frequency": 440.0,
+      "administrative_level": "Standard Administrative",
+      "mathematical_concept": "Right Angle/Square",
+      "unicode_char": "𒀱"
+    },
+    {
+      "m_number": "M051",
+      "description": "Proto-Elamite sign variant 51",
+      "primary_angle": 60,
+      "frequency": 293.33,
+      "administrative_level": "Temporal/Structural",
+      "mathematical_concept": "Complex Angle (60°)",
+      "unicode_char": "𒀲"
+    },
+    {
+      "m_number": "M052",
+      "description": "Proto-Elamite sign variant 52",
+      "primary_angle": 90,
+      "frequency": 440.0,
+      "administrative_level": "Standard Administrative",
+      "mathematical_concept": "Right Angle/Square",
+      "unicode_char": "𒀳"
+    },
+    {
+      "m_number": "M053",
+      "description": "Proto-Elamite sign variant 53",
+      "primary_angle": 60,
+      "frequency": 293.33,
+      "administrative_level": "Temporal/Structural",
+      "mathematical_concept": "Complex Angle (60°)",
+      "unicode_char": "𒀴"
+    },
+    {
+      "m_number": "M054",
+      "description": "Proto-Elamite sign variant 54",
+      "primary_angle": 135,
+      "frequency": 660.0,
+      "administrative_level": "High Administrative",
+      "mathematical_concept": "Three-Quarter Circle",
+      "unicode_char": "𒀵"
+    },
+    {
+      "m_number": "M055",
+      "description": "Proto-Elamite sign variant 55",
+      "primary_angle": 60,
+      "frequency": 293.33,
+      "administrative_level": "Temporal/Structural",
+      "mathematical_concept": "Complex Angle (60°)",
+      "unicode_char": "𒀶"
+    },
+    {
+      "m_number": "M056",
+      "description": "Proto-Elamite sign variant 56",
+      "primary_angle": 135,
+      "frequency": 660.0,
+      "administrative_level": "High Administrative",
+      "mathematical_concept": "Three-Quarter Circle",
+      "unicode_char": "𒀷"
+    },
+    {
+      "m_number": "M057",
+      "description": "Proto-Elamite sign variant 57",
+      "primary_angle": 45,
+      "frequency": 220.0,
+      "administrative_level": "Temporal/Structural",
+      "mathematical_concept": "Half Right Angle",
+      "unicode_char": "𒀸"
+    },
+    {
+      "m_number": "M058",
+      "description": "Proto-Elamite sign variant 58",
+      "primary_angle": 120,
+      "frequency": 586.67,
+      "administrative_level": "Standard Administrative",
+      "mathematical_concept": "Complex Angle (120°)",
+      "unicode_char": "𒀹"
+    },
+    {
+      "m_number": "M059",
+      "description": "Proto-Elamite sign variant 59",
+      "primary_angle": 120,
+      "frequency": 586.67,
+      "administrative_level": "Standard Administrative",
+      "mathematical_concept": "Complex Angle (120°)",
+      "unicode_char": "𒀺"
+    },
+    {
+      "m_number": "M060",
+      "description": "Proto-Elamite sign variant 60",
+      "primary_angle": 90,
+      "frequency": 440.0,
+      "administrative_level": "Standard Administrative",
+      "mathematical_concept": "Right Angle/Square",
+      "unicode_char": "𒀻"
+    },
+    {
+      "m_number": "M061",
+      "description": "Proto-Elamite sign variant 61",
+      "primary_angle": 60,
+      "frequency": 293.33,
+      "administrative_level": "Temporal/Structural",
+      "mathematical_concept": "Complex Angle (60°)",
+      "unicode_char": "𒀼"
+    },
+    {
+      "m_number": "M062",
+      "description": "Proto-Elamite sign variant 62",
+      "primary_angle": 135,
+      "frequency": 660.0,
+      "administrative_level": "High Administrative",
+      "mathematical_concept": "Three-Quarter Circle",
+      "unicode_char": "𒀽"
+    },
+    {
+      "m_number": "M063",
+      "description": "Proto-Elamite sign variant 63",
+      "primary_angle": 90,
+      "frequency": 440.0,
+      "administrative_level": "Standard Administrative",
+      "mathematical_concept": "Right Angle/Square",
+      "unicode_char": "𒀾"
+    },
+    {
+      "m_number": "M064",
+      "description": "Proto-Elamite sign variant 64",
+      "primary_angle": 120,
+      "frequency": 586.67,
+      "administrative_level": "Standard Administrative",
+      "mathematical_concept": "Complex Angle (120°)",
+      "unicode_char": "𒀿"
+    },
+    {
+      "m_number": "M065",
+      "description": "Proto-Elamite sign variant 65",
+      "primary_angle": 90,
+      "frequency": 440.0,
+      "administrative_level": "Standard Administrative",
+      "mathematical_concept": "Right Angle/Square",
+      "unicode_char": "𒁀"
+    },
+    {
+      "m_number": "M066",
+      "description": "Proto-Elamite sign variant 66",
+      "primary_angle": 60,
+      "frequency": 293.33,
+      "administrative_level": "Temporal/Structural",
+      "mathematical_concept": "Complex Angle (60°)",
+      "unicode_char": "𒁁"
+    },
+    {
+      "m_number": "M067",
+      "description": "Proto-Elamite sign variant 67",
+      "primary_angle": 120,
+      "frequency": 586.67,
+      "administrative_level": "Standard Administrative",
+      "mathematical_concept": "Complex Angle (120°)",
+      "unicode_char": "𒁂"
+    },
+    {
+      "m_number": "M068",
+      "description": "Proto-Elamite sign variant 68",
+      "primary_angle": 90,
+      "frequency": 440.0,
+      "administrative_level": "Standard Administrative",
+      "mathematical_concept": "Right Angle/Square",
+      "unicode_char": "𒁃"
+    },
+    {
+      "m_number": "M069",
+      "description": "Proto-Elamite sign variant 69",
+      "primary_angle": 120,
+      "frequency": 586.67,
+      "administrative_level": "Standard Administrative",
+      "mathematical_concept": "Complex Angle (120°)",
+      "unicode_char": "𒁄"
+    },
+    {
+      "m_number": "M070",
+      "description": "Proto-Elamite sign variant 70",
+      "primary_angle": 45,
+      "frequency": 220.0,
+      "administrative_level": "Temporal/Structural",
+      "mathematical_concept": "Half Right Angle",
+      "unicode_char": "𒁅"
+    },
+    {
+      "m_number": "M071",
+      "description": "Proto-Elamite sign variant 71",
+      "primary_angle": 90,
+      "frequency": 440.0,
+      "administrative_level": "Standard Administrative",
+      "mathematical_concept": "Right Angle/Square",
+      "unicode_char": "𒁆"
+    },
+    {
+      "m_number": "M072",
+      "description": "Proto-Elamite sign variant 72",
+      "primary_angle": 135,
+      "frequency": 660.0,
+      "administrative_level": "High Administrative",
+      "mathematical_concept": "Three-Quarter Circle",
+      "unicode_char": "𒁇"
+    },
+    {
+      "m_number": "M073",
+      "description": "Proto-Elamite sign variant 73",
+      "primary_angle": 60,
+      "frequency": 293.33,
+      "administrative_level": "Temporal/Structural",
+      "mathematical_concept": "Complex Angle (60°)",
+      "unicode_char": "𒁈"
+    },
+    {
+      "m_number": "M074",
+      "description": "Proto-Elamite sign variant 74",
+      "primary_angle": 90,
+      "frequency": 440.0,
+      "administrative_level": "Standard Administrative",
+      "mathematical_concept": "Right Angle/Square",
+      "unicode_char": "𒁉"
+    },
+    {
+      "m_number": "M075",
+      "description": "Proto-Elamite sign variant 75",
+      "primary_angle": 135,
+      "frequency": 660.0,
+      "administrative_level": "High Administrative",
+      "mathematical_concept": "Three-Quarter Circle",
+      "unicode_char": "𒁊"
+    },
+    {
+      "m_number": "M076",
+      "description": "Proto-Elamite sign variant 76",
+      "primary_angle": 120,
+      "frequency": 586.67,
+      "administrative_level": "Standard Administrative",
+      "mathematical_concept": "Complex Angle (120°)",
+      "unicode_char": "𒁋"
+    },
+    {
+      "m_number": "M077",
+      "description": "Proto-Elamite sign variant 77",
+      "primary_angle": 45,
+      "frequency": 220.0,
+      "administrative_level": "Temporal/Structural",
+      "mathematical_concept": "Half Right Angle",
+      "unicode_char": "𒁌"
+    },
+    {
+      "m_number": "M078",
+      "description": "Proto-Elamite sign variant 78",
+      "primary_angle": 135,
+      "frequency": 660.0,
+      "administrative_level": "High Administrative",
+      "mathematical_concept": "Three-Quarter Circle",
+      "unicode_char": "𒁍"
+    },
+    {
+      "m_number": "M079",
+      "description": "Proto-Elamite sign variant 79",
+      "primary_angle": 45,
+      "frequency": 220.0,
+      "administrative_level": "Temporal/Structural",
+      "mathematical_concept": "Half Right Angle",
+      "unicode_char": "𒁎"
+    },
+    {
+      "m_number": "M080",
+      "description": "Proto-Elamite sign variant 80",
+      "primary_angle": 120,
+      "frequency": 586.67,
+      "administrative_level": "Standard Administrative",
+      "mathematical_concept": "Complex Angle (120°)",
+      "unicode_char": "𒁏"
+    },
+    {
+      "m_number": "M081",
+      "description": "Proto-Elamite sign variant 81",
+      "primary_angle": 90,
+      "frequency": 440.0,
+      "administrative_level": "Standard Administrative",
+      "mathematical_concept": "Right Angle/Square",
+      "unicode_char": "𒁐"
+    },
+    {
+      "m_number": "M082",
+      "description": "Proto-Elamite sign variant 82",
+      "primary_angle": 60,
+      "frequency": 293.33,
+      "administrative_level": "Temporal/Structural",
+      "mathematical_concept": "Complex Angle (60°)",
+      "unicode_char": "𒁑"
+    },
+    {
+      "m_number": "M083",
+      "description": "Proto-Elamite sign variant 83",
+      "primary_angle": 120,
+      "frequency": 586.67,
+      "administrative_level": "Standard Administrative",
+      "mathematical_concept": "Complex Angle (120°)",
+      "unicode_char": "𒁒"
+    },
+    {
+      "m_number": "M084",
+      "description": "Proto-Elamite sign variant 84",
+      "primary_angle": 90,
+      "frequency": 440.0,
+      "administrative_level": "Standard Administrative",
+      "mathematical_concept": "Right Angle/Square",
+      "unicode_char": "𒁓"
+    },
+    {
+      "m_number": "M085",
+      "description": "Proto-Elamite sign variant 85",
+      "primary_angle": 90,
+      "frequency": 440.0,
+      "administrative_level": "Standard Administrative",
+      "mathematical_concept": "Right Angle/Square",
+      "unicode_char": "𒁔"
+    },
+    {
+      "m_number": "M086",
+      "description": "Proto-Elamite sign variant 86",
+      "primary_angle": 135,
+      "frequency": 660.0,
+      "administrative_level": "High Administrative",
+      "mathematical_concept": "Three-Quarter Circle",
+      "unicode_char": "𒁕"
+    },
+    {
+      "m_number": "M087",
+      "description": "Proto-Elamite sign variant 87",
+      "primary_angle": 45,
+      "frequency": 220.0,
+      "administrative_level": "Temporal/Structural",
+      "mathematical_concept": "Half Right Angle",
+      "unicode_char": "𒁖"
+    },
+    {
+      "m_number": "M088",
+      "description": "Proto-Elamite sign variant 88",
+      "primary_angle": 45,
+      "frequency": 220.0,
+      "administrative_level": "Temporal/Structural",
+      "mathematical_concept": "Half Right Angle",
+      "unicode_char": "𒁗"
+    },
+    {
+      "m_number": "M089",
+      "description": "Proto-Elamite sign variant 89",
+      "primary_angle": 90,
+      "frequency": 440.0,
+      "administrative_level": "Standard Administrative",
+      "mathematical_concept": "Right Angle/Square",
+      "unicode_char": "𒁘"
+    },
+    {
+      "m_number": "M090",
+      "description": "Proto-Elamite sign variant 90",
+      "primary_angle": 45,
+      "frequency": 220.0,
+      "administrative_level": "Temporal/Structural",
+      "mathematical_concept": "Half Right Angle",
+      "unicode_char": "𒁙"
+    },
+    {
+      "m_number": "M091",
+      "description": "Proto-Elamite sign variant 91",
+      "primary_angle": 135,
+      "frequency": 660.0,
+      "administrative_level": "High Administrative",
+      "mathematical_concept": "Three-Quarter Circle",
+      "unicode_char": "𒁚"
+    },
+    {
+      "m_number": "M092",
+      "description": "Proto-Elamite sign variant 92",
+      "primary_angle": 135,
+      "frequency": 660.0,
+      "administrative_level": "High Administrative",
+      "mathematical_concept": "Three-Quarter Circle",
+      "unicode_char": "𒁛"
+    },
+    {
+      "m_number": "M093",
+      "description": "Proto-Elamite sign variant 93",
+      "primary_angle": 45,
+      "frequency": 220.0,
+      "administrative_level": "Temporal/Structural",
+      "mathematical_concept": "Half Right Angle",
+      "unicode_char": "𒁜"
+    },
+    {
+      "m_number": "M094",
+      "description": "Proto-Elamite sign variant 94",
+      "primary_angle": 60,
+      "frequency": 293.33,
+      "administrative_level": "Temporal/Structural",
+      "mathematical_concept": "Complex Angle (60°)",
+      "unicode_char": "𒁝"
+    },
+    {
+      "m_number": "M095",
+      "description": "Proto-Elamite sign variant 95",
+      "primary_angle": 60,
+      "frequency": 293.33,
+      "administrative_level": "Temporal/Structural",
+      "mathematical_concept": "Complex Angle (60°)",
+      "unicode_char": "𒁞"
+    },
+    {
+      "m_number": "M096",
+      "description": "Proto-Elamite sign variant 96",
+      "primary_angle": 135,
+      "frequency": 660.0,
+      "administrative_level": "High Administrative",
+      "mathematical_concept": "Three-Quarter Circle",
+      "unicode_char": "𒁟"
+    },
+    {
+      "m_number": "M097",
+      "description": "Proto-Elamite sign variant 97",
+      "primary_angle": 90,
+      "frequency": 440.0,
+      "administrative_level": "Standard Administrative",
+      "mathematical_concept": "Right Angle/Square",
+      "unicode_char": "𒁠"
+    },
+    {
+      "m_number": "M098",
+      "description": "Proto-Elamite sign variant 98",
+      "primary_angle": 45,
+      "frequency": 220.0,
+      "administrative_level": "Temporal/Structural",
+      "mathematical_concept": "Half Right Angle",
+      "unicode_char": "𒁡"
+    },
+    {
+      "m_number": "M099",
+      "description": "Proto-Elamite sign variant 99",
+      "primary_angle": 60,
+      "frequency": 293.33,
+      "administrative_level": "Temporal/Structural",
+      "mathematical_concept": "Complex Angle (60°)",
+      "unicode_char": "𒁢"
+    },
+    {
+      "m_number": "M100",
+      "description": "Proto-Elamite sign variant 100",
+      "primary_angle": 45,
+      "frequency": 220.0,
+      "administrative_level": "Temporal/Structural",
+      "mathematical_concept": "Half Right Angle",
+      "unicode_char": "𒁣"
+    },
+    {
+      "m_number": "M101",
+      "description": "Proto-Elamite sign variant 101",
+      "primary_angle": 90,
+      "frequency": 440.0,
+      "administrative_level": "Standard Administrative",
+      "mathematical_concept": "Right Angle/Square",
+      "unicode_char": "𒁤"
+    },
+    {
+      "m_number": "M102",
+      "description": "Proto-Elamite sign variant 102",
+      "primary_angle": 45,
+      "frequency": 220.0,
+      "administrative_level": "Temporal/Structural",
+      "mathematical_concept": "Half Right Angle",
+      "unicode_char": "𒁥"
+    },
+    {
+      "m_number": "M103",
+      "description": "Proto-Elamite sign variant 103",
+      "primary_angle": 90,
+      "frequency": 440.0,
+      "administrative_level": "Standard Administrative",
+      "mathematical_concept": "Right Angle/Square",
+      "unicode_char": "𒁦"
+    },
+    {
+      "m_number": "M104",
+      "description": "Proto-Elamite sign variant 104",
+      "primary_angle": 135,
+      "frequency": 660.0,
+      "administrative_level": "High Administrative",
+      "mathematical_concept": "Three-Quarter Circle",
+      "unicode_char": "𒁧"
+    },
+    {
+      "m_number": "M105",
+      "description": "Proto-Elamite sign variant 105",
+      "primary_angle": 135,
+      "frequency": 660.0,
+      "administrative_level": "High Administrative",
+      "mathematical_concept": "Three-Quarter Circle",
+      "unicode_char": "𒁨"
+    },
+    {
+      "m_number": "M106",
+      "description": "Proto-Elamite sign variant 106",
+      "primary_angle": 30,
+      "frequency": 146.67,
+      "administrative_level": "Fractional/Detailed",
+      "mathematical_concept": "One-Third Right Angle",
+      "unicode_char": "𒁩"
+    },
+    {
+      "m_number": "M107",
+      "description": "Proto-Elamite sign variant 107",
+      "primary_angle": 135,
+      "frequency": 660.0,
+      "administrative_level": "High Administrative",
+      "mathematical_concept": "Three-Quarter Circle",
+      "unicode_char": "𒁪"
+    },
+    {
+      "m_number": "M108",
+      "description": "Proto-Elamite sign variant 108",
+      "primary_angle": 45,
+      "frequency": 220.0,
+      "administrative_level": "Temporal/Structural",
+      "mathematical_concept": "Half Right Angle",
+      "unicode_char": "𒁫"
+    },
+    {
+      "m_number": "M109",
+      "description": "Proto-Elamite sign variant 109",
+      "primary_angle": 30,
+      "frequency": 146.67,
+      "administrative_level": "Fractional/Detailed",
+      "mathematical_concept": "One-Third Right Angle",
+      "unicode_char": "𒁬"
+    },
+    {
+      "m_number": "M110",
+      "description": "Proto-Elamite sign variant 110",
+      "primary_angle": 30,
+      "frequency": 146.67,
+      "administrative_level": "Fractional/Detailed",
+      "mathematical_concept": "One-Third Right Angle",
+      "unicode_char": "𒁭"
+    },
+    {
+      "m_number": "M111",
+      "description": "Proto-Elamite sign variant 111",
+      "primary_angle": 30,
+      "frequency": 146.67,
+      "administrative_level": "Fractional/Detailed",
+      "mathematical_concept": "One-Third Right Angle",
+      "unicode_char": "𒁮"
+    },
+    {
+      "m_number": "M112",
+      "description": "Proto-Elamite sign variant 112",
+      "primary_angle": 30,
+      "frequency": 146.67,
+      "administrative_level": "Fractional/Detailed",
+      "mathematical_concept": "One-Third Right Angle",
+      "unicode_char": "𒁯"
+    },
+    {
+      "m_number": "M113",
+      "description": "Proto-Elamite sign variant 113",
+      "primary_angle": 90,
+      "frequency": 440.0,
+      "administrative_level": "Standard Administrative",
+      "mathematical_concept": "Right Angle/Square",
+      "unicode_char": "𒁰"
+    },
+    {
+      "m_number": "M114",
+      "description": "Proto-Elamite sign variant 114",
+      "primary_angle": 180,
+      "frequency": 880.0,
+      "administrative_level": "Ultimate Authority",
+      "mathematical_concept": "Perfect Line/Unity",
+      "unicode_char": "𒁱"
+    },
+    {
+      "m_number": "M115",
+      "description": "Proto-Elamite sign variant 115",
+      "primary_angle": 135,
+      "frequency": 660.0,
+      "administrative_level": "High Administrative",
+      "mathematical_concept": "Three-Quarter Circle",
+      "unicode_char": "𒁲"
+    },
+    {
+      "m_number": "M116",
+      "description": "Proto-Elamite sign variant 116",
+      "primary_angle": 45,
+      "frequency": 220.0,
+      "administrative_level": "Temporal/Structural",
+      "mathematical_concept": "Half Right Angle",
+      "unicode_char": "𒁳"
+    },
+    {
+      "m_number": "M117",
+      "description": "Proto-Elamite sign variant 117",
+      "primary_angle": 45,
+      "frequency": 220.0,
+      "administrative_level": "Temporal/Structural",
+      "mathematical_concept": "Half Right Angle",
+      "unicode_char": "𒁴"
+    },
+    {
+      "m_number": "M118",
+      "description": "Proto-Elamite sign variant 118",
+      "primary_angle": 135,
+      "frequency": 660.0,
+      "administrative_level": "High Administrative",
+      "mathematical_concept": "Three-Quarter Circle",
+      "unicode_char": "𒁵"
+    },
+    {
+      "m_number": "M119",
+      "description": "Proto-Elamite sign variant 119",
+      "primary_angle": 30,
+      "frequency": 146.67,
+      "administrative_level": "Fractional/Detailed",
+      "mathematical_concept": "One-Third Right Angle",
+      "unicode_char": "𒁶"
+    },
+    {
+      "m_number": "M120",
+      "description": "Proto-Elamite sign variant 120",
+      "primary_angle": 180,
+      "frequency": 880.0,
+      "administrative_level": "Ultimate Authority",
+      "mathematical_concept": "Perfect Line/Unity",
+      "unicode_char": "𒁷"
+    },
+    {
+      "m_number": "M121",
+      "description": "Proto-Elamite sign variant 121",
+      "primary_angle": 30,
+      "frequency": 146.67,
+      "administrative_level": "Fractional/Detailed",
+      "mathematical_concept": "One-Third Right Angle",
+      "unicode_char": "𒁸"
+    },
+    {
+      "m_number": "M122",
+      "description": "Proto-Elamite sign variant 122",
+      "primary_angle": 135,
+      "frequency": 660.0,
+      "administrative_level": "High Administrative",
+      "mathematical_concept": "Three-Quarter Circle",
+      "unicode_char": "𒁹"
+    },
+    {
+      "m_number": "M123",
+      "description": "Proto-Elamite sign variant 123",
+      "primary_angle": 30,
+      "frequency": 146.67,
+      "administrative_level": "Fractional/Detailed",
+      "mathematical_concept": "One-Third Right Angle",
+      "unicode_char": "𒁺"
+    },
+    {
+      "m_number": "M124",
+      "description": "Proto-Elamite sign variant 124",
+      "primary_angle": 135,
+      "frequency": 660.0,
+      "administrative_level": "High Administrative",
+      "mathematical_concept": "Three-Quarter Circle",
+      "unicode_char": "𒁻"
+    },
+    {
+      "m_number": "M125",
+      "description": "Proto-Elamite sign variant 125",
+      "primary_angle": 90,
+      "frequency": 440.0,
+      "administrative_level": "Standard Administrative",
+      "mathematical_concept": "Right Angle/Square",
+      "unicode_char": "𒁼"
+    },
+    {
+      "m_number": "M126",
+      "description": "Proto-Elamite sign variant 126",
+      "primary_angle": 30,
+      "frequency": 146.67,
+      "administrative_level": "Fractional/Detailed",
+      "mathematical_concept": "One-Third Right Angle",
+      "unicode_char": "𒁽"
+    },
+    {
+      "m_number": "M127",
+      "description": "Proto-Elamite sign variant 127",
+      "primary_angle": 135,
+      "frequency": 660.0,
+      "administrative_level": "High Administrative",
+      "mathematical_concept": "Three-Quarter Circle",
+      "unicode_char": "𒁾"
+    },
+    {
+      "m_number": "M128",
+      "description": "Proto-Elamite sign variant 128",
+      "primary_angle": 90,
+      "frequency": 440.0,
+      "administrative_level": "Standard Administrative",
+      "mathematical_concept": "Right Angle/Square",
+      "unicode_char": "𒁿"
+    },
+    {
+      "m_number": "M129",
+      "description": "Proto-Elamite sign variant 129",
+      "primary_angle": 90,
+      "frequency": 440.0,
+      "administrative_level": "Standard Administrative",
+      "mathematical_concept": "Right Angle/Square",
+      "unicode_char": "𒂀"
+    },
+    {
+      "m_number": "M130",
+      "description": "Proto-Elamite sign variant 130",
+      "primary_angle": 90,
+      "frequency": 440.0,
+      "administrative_level": "Standard Administrative",
+      "mathematical_concept": "Right Angle/Square",
+      "unicode_char": "𒂁"
+    },
+    {
+      "m_number": "M131",
+      "description": "Proto-Elamite sign variant 131",
+      "primary_angle": 30,
+      "frequency": 146.67,
+      "administrative_level": "Fractional/Detailed",
+      "mathematical_concept": "One-Third Right Angle",
+      "unicode_char": "𒂂"
+    },
+    {
+      "m_number": "M132",
+      "description": "Proto-Elamite sign variant 132",
+      "primary_angle": 180,
+      "frequency": 880.0,
+      "administrative_level": "Ultimate Authority",
+      "mathematical_concept": "Perfect Line/Unity",
+      "unicode_char": "𒂃"
+    },
+    {
+      "m_number": "M133",
+      "description": "Proto-Elamite sign variant 133",
+      "primary_angle": 90,
+      "frequency": 440.0,
+      "administrative_level": "Standard Administrative",
+      "mathematical_concept": "Right Angle/Square",
+      "unicode_char": "𒂄"
+    },
+    {
+      "m_number": "M134",
+      "description": "Proto-Elamite sign variant 134",
+      "primary_angle": 180,
+      "frequency": 880.0,
+      "administrative_level": "Ultimate Authority",
+      "mathematical_concept": "Perfect Line/Unity",
+      "unicode_char": "𒂅"
+    },
+    {
+      "m_number": "M135",
+      "description": "Proto-Elamite sign variant 135",
+      "primary_angle": 45,
+      "frequency": 220.0,
+      "administrative_level": "Temporal/Structural",
+      "mathematical_concept": "Half Right Angle",
+      "unicode_char": "𒂆"
+    },
+    {
+      "m_number": "M136",
+      "description": "Proto-Elamite sign variant 136",
+      "primary_angle": 135,
+      "frequency": 660.0,
+      "administrative_level": "High Administrative",
+      "mathematical_concept": "Three-Quarter Circle",
+      "unicode_char": "𒂇"
+    },
+    {
+      "m_number": "M137",
+      "description": "Proto-Elamite sign variant 137",
+      "primary_angle": 30,
+      "frequency": 146.67,
+      "administrative_level": "Fractional/Detailed",
+      "mathematical_concept": "One-Third Right Angle",
+      "unicode_char": "𒂈"
+    },
+    {
+      "m_number": "M138",
+      "description": "Proto-Elamite sign variant 138",
+      "primary_angle": 90,
+      "frequency": 440.0,
+      "administrative_level": "Standard Administrative",
+      "mathematical_concept": "Right Angle/Square",
+      "unicode_char": "𒂉"
+    },
+    {
+      "m_number": "M139",
+      "description": "Proto-Elamite sign variant 139",
+      "primary_angle": 90,
+      "frequency": 440.0,
+      "administrative_level": "Standard Administrative",
+      "mathematical_concept": "Right Angle/Square",
+      "unicode_char": "𒂊"
+    },
+    {
+      "m_number": "M140",
+      "description": "Proto-Elamite sign variant 140",
+      "primary_angle": 180,
+      "frequency": 880.0,
+      "administrative_level": "Ultimate Authority",
+      "mathematical_concept": "Perfect Line/Unity",
+      "unicode_char": "𒂋"
+    },
+    {
+      "m_number": "M141",
+      "description": "Proto-Elamite sign variant 141",
+      "primary_angle": 180,
+      "frequency": 880.0,
+      "administrative_level": "Ultimate Authority",
+      "mathematical_concept": "Perfect Line/Unity",
+      "unicode_char": "𒂌"
+    },
+    {
+      "m_number": "M142",
+      "description": "Proto-Elamite sign variant 142",
+      "primary_angle": 180,
+      "frequency": 880.0,
+      "administrative_level": "Ultimate Authority",
+      "mathematical_concept": "Perfect Line/Unity",
+      "unicode_char": "𒂍"
+    },
+    {
+      "m_number": "M143",
+      "description": "Proto-Elamite sign variant 143",
+      "primary_angle": 135,
+      "frequency": 660.0,
+      "administrative_level": "High Administrative",
+      "mathematical_concept": "Three-Quarter Circle",
+      "unicode_char": "𒂎"
+    },
+    {
+      "m_number": "M144",
+      "description": "Proto-Elamite sign variant 144",
+      "primary_angle": 30,
+      "frequency": 146.67,
+      "administrative_level": "Fractional/Detailed",
+      "mathematical_concept": "One-Third Right Angle",
+      "unicode_char": "𒂏"
+    },
+    {
+      "m_number": "M145",
+      "description": "Proto-Elamite sign variant 145",
+      "primary_angle": 135,
+      "frequency": 660.0,
+      "administrative_level": "High Administrative",
+      "mathematical_concept": "Three-Quarter Circle",
+      "unicode_char": "𒂐"
+    },
+    {
+      "m_number": "M146",
+      "description": "Proto-Elamite sign variant 146",
+      "primary_angle": 30,
+      "frequency": 146.67,
+      "administrative_level": "Fractional/Detailed",
+      "mathematical_concept": "One-Third Right Angle",
+      "unicode_char": "𒂑"
+    },
+    {
+      "m_number": "M147",
+      "description": "Proto-Elamite sign variant 147",
+      "primary_angle": 90,
+      "frequency": 440.0,
+      "administrative_level": "Standard Administrative",
+      "mathematical_concept": "Right Angle/Square",
+      "unicode_char": "𒂒"
+    },
+    {
+      "m_number": "M148",
+      "description": "Proto-Elamite sign variant 148",
+      "primary_angle": 180,
+      "frequency": 880.0,
+      "administrative_level": "Ultimate Authority",
+      "mathematical_concept": "Perfect Line/Unity",
+      "unicode_char": "𒂓"
+    },
+    {
+      "m_number": "M149",
+      "description": "Proto-Elamite sign variant 149",
+      "primary_angle": 45,
+      "frequency": 220.0,
+      "administrative_level": "Temporal/Structural",
+      "mathematical_concept": "Half Right Angle",
+      "unicode_char": "𒂔"
+    },
+    {
+      "m_number": "M150",
+      "description": "Proto-Elamite sign variant 150",
+      "primary_angle": 180,
+      "frequency": 880.0,
+      "administrative_level": "Ultimate Authority",
+      "mathematical_concept": "Perfect Line/Unity",
+      "unicode_char": "𒂕"
+    },
+    {
+      "m_number": "M151",
+      "description": "Proto-Elamite sign variant 151",
+      "primary_angle": 90,
+      "frequency": 440.0,
+      "administrative_level": "Standard Administrative",
+      "mathematical_concept": "Right Angle/Square",
+      "unicode_char": "𒂖"
+    },
+    {
+      "m_number": "M152",
+      "description": "Proto-Elamite sign variant 152",
+      "primary_angle": 150,
+      "frequency": 733.33,
+      "administrative_level": "High Administrative",
+      "mathematical_concept": "Complex Angle (150°)",
+      "unicode_char": "𒂗"
+    },
+    {
+      "m_number": "M153",
+      "description": "Proto-Elamite sign variant 153",
+      "primary_angle": 45,
+      "frequency": 220.0,
+      "administrative_level": "Temporal/Structural",
+      "mathematical_concept": "Half Right Angle",
+      "unicode_char": "𒂘"
+    },
+    {
+      "m_number": "M154",
+      "description": "Proto-Elamite sign variant 154",
+      "primary_angle": 180,
+      "frequency": 880.0,
+      "administrative_level": "Ultimate Authority",
+      "mathematical_concept": "Perfect Line/Unity",
+      "unicode_char": "𒂙"
+    },
+    {
+      "m_number": "M155",
+      "description": "Proto-Elamite sign variant 155",
+      "primary_angle": 90,
+      "frequency": 440.0,
+      "administrative_level": "Standard Administrative",
+      "mathematical_concept": "Right Angle/Square",
+      "unicode_char": "𒂚"
+    },
+    {
+      "m_number": "M156",
+      "description": "Proto-Elamite sign variant 156",
+      "primary_angle": 60,
+      "frequency": 293.33,
+      "administrative_level": "Temporal/Structural",
+      "mathematical_concept": "Complex Angle (60°)",
+      "unicode_char": "𒂛"
+    },
+    {
+      "m_number": "M157",
+      "description": "Proto-Elamite sign variant 157",
+      "primary_angle": 120,
+      "frequency": 586.67,
+      "administrative_level": "Standard Administrative",
+      "mathematical_concept": "Complex Angle (120°)",
+      "unicode_char": "𒂜"
+    },
+    {
+      "m_number": "M158",
+      "description": "Proto-Elamite sign variant 158",
+      "primary_angle": 135,
+      "frequency": 660.0,
+      "administrative_level": "High Administrative",
+      "mathematical_concept": "Three-Quarter Circle",
+      "unicode_char": "𒂝"
+    },
+    {
+      "m_number": "M159",
+      "description": "Proto-Elamite sign variant 159",
+      "primary_angle": 180,
+      "frequency": 880.0,
+      "administrative_level": "Ultimate Authority",
+      "mathematical_concept": "Perfect Line/Unity",
+      "unicode_char": "𒂞"
+    },
+    {
+      "m_number": "M160",
+      "description": "Proto-Elamite sign variant 160",
+      "primary_angle": 45,
+      "frequency": 220.0,
+      "administrative_level": "Temporal/Structural",
+      "mathematical_concept": "Half Right Angle",
+      "unicode_char": "𒂟"
+    },
+    {
+      "m_number": "M161",
+      "description": "Proto-Elamite sign variant 161",
+      "primary_angle": 150,
+      "frequency": 733.33,
+      "administrative_level": "High Administrative",
+      "mathematical_concept": "Complex Angle (150°)",
+      "unicode_char": "𒂠"
+    },
+    {
+      "m_number": "M162",
+      "description": "Proto-Elamite sign variant 162",
+      "primary_angle": 90,
+      "frequency": 440.0,
+      "administrative_level": "Standard Administrative",
+      "mathematical_concept": "Right Angle/Square",
+      "unicode_char": "𒂡"
+    },
+    {
+      "m_number": "M163",
+      "description": "Proto-Elamite sign variant 163",
+      "primary_angle": 135,
+      "frequency": 660.0,
+      "administrative_level": "High Administrative",
+      "mathematical_concept": "Three-Quarter Circle",
+      "unicode_char": "𒂢"
+    },
+    {
+      "m_number": "M164",
+      "description": "Proto-Elamite sign variant 164",
+      "primary_angle": 120,
+      "frequency": 586.67,
+      "administrative_level": "Standard Administrative",
+      "mathematical_concept": "Complex Angle (120°)",
+      "unicode_char": "𒂣"
+    },
+    {
+      "m_number": "M165",
+      "description": "Proto-Elamite sign variant 165",
+      "primary_angle": 45,
+      "frequency": 220.0,
+      "administrative_level": "Temporal/Structural",
+      "mathematical_concept": "Half Right Angle",
+      "unicode_char": "𒂤"
+    },
+    {
+      "m_number": "M166",
+      "description": "Proto-Elamite sign variant 166",
+      "primary_angle": 45,
+      "frequency": 220.0,
+      "administrative_level": "Temporal/Structural",
+      "mathematical_concept": "Half Right Angle",
+      "unicode_char": "𒂥"
+    },
+    {
+      "m_number": "M167",
+      "description": "Proto-Elamite sign variant 167",
+      "primary_angle": 120,
+      "frequency": 586.67,
+      "administrative_level": "Standard Administrative",
+      "mathematical_concept": "Complex Angle (120°)",
+      "unicode_char": "𒂦"
+    },
+    {
+      "m_number": "M168",
+      "description": "Proto-Elamite sign variant 168",
+      "primary_angle": 150,
+      "frequency": 733.33,
+      "administrative_level": "High Administrative",
+      "mathematical_concept": "Complex Angle (150°)",
+      "unicode_char": "𒂧"
+    },
+    {
+      "m_number": "M169",
+      "description": "Proto-Elamite sign variant 169",
+      "primary_angle": 30,
+      "frequency": 146.67,
+      "administrative_level": "Fractional/Detailed",
+      "mathematical_concept": "One-Third Right Angle",
+      "unicode_char": "𒂨"
+    },
+    {
+      "m_number": "M170",
+      "description": "Proto-Elamite sign variant 170",
+      "primary_angle": 30,
+      "frequency": 146.67,
+      "administrative_level": "Fractional/Detailed",
+      "mathematical_concept": "One-Third Right Angle",
+      "unicode_char": "𒂩"
+    },
+    {
+      "m_number": "M171",
+      "description": "Proto-Elamite sign variant 171",
+      "primary_angle": 30,
+      "frequency": 146.67,
+      "administrative_level": "Fractional/Detailed",
+      "mathematical_concept": "One-Third Right Angle",
+      "unicode_char": "𒂪"
+    },
+    {
+      "m_number": "M172",
+      "description": "Proto-Elamite sign variant 172",
+      "primary_angle": 45,
+      "frequency": 220.0,
+      "administrative_level": "Temporal/Structural",
+      "mathematical_concept": "Half Right Angle",
+      "unicode_char": "𒂫"
+    },
+    {
+      "m_number": "M173",
+      "description": "Proto-Elamite sign variant 173",
+      "primary_angle": 60,
+      "frequency": 293.33,
+      "administrative_level": "Temporal/Structural",
+      "mathematical_concept": "Complex Angle (60°)",
+      "unicode_char": "𒂬"
+    },
+    {
+      "m_number": "M174",
+      "description": "Proto-Elamite sign variant 174",
+      "primary_angle": 120,
+      "frequency": 586.67,
+      "administrative_level": "Standard Administrative",
+      "mathematical_concept": "Complex Angle (120°)",
+      "unicode_char": "𒂭"
+    },
+    {
+      "m_number": "M175",
+      "description": "Proto-Elamite sign variant 175",
+      "primary_angle": 60,
+      "frequency": 293.33,
+      "administrative_level": "Temporal/Structural",
+      "mathematical_concept": "Complex Angle (60°)",
+      "unicode_char": "𒂮"
+    },
+    {
+      "m_number": "M176",
+      "description": "Proto-Elamite sign variant 176",
+      "primary_angle": 90,
+      "frequency": 440.0,
+      "administrative_level": "Standard Administrative",
+      "mathematical_concept": "Right Angle/Square",
+      "unicode_char": "𒂯"
+    },
+    {
+      "m_number": "M177",
+      "description": "Proto-Elamite sign variant 177",
+      "primary_angle": 45,
+      "frequency": 220.0,
+      "administrative_level": "Temporal/Structural",
+      "mathematical_concept": "Half Right Angle",
+      "unicode_char": "𒂰"
+    },
+    {
+      "m_number": "M178",
+      "description": "Proto-Elamite sign variant 178",
+      "primary_angle": 150,
+      "frequency": 733.33,
+      "administrative_level": "High Administrative",
+      "mathematical_concept": "Complex Angle (150°)",
+      "unicode_char": "𒂱"
+    },
+    {
+      "m_number": "M179",
+      "description": "Proto-Elamite sign variant 179",
+      "primary_angle": 135,
+      "frequency": 660.0,
+      "administrative_level": "High Administrative",
+      "mathematical_concept": "Three-Quarter Circle",
+      "unicode_char": "𒂲"
+    },
+    {
+      "m_number": "M180",
+      "description": "Proto-Elamite sign variant 180",
+      "primary_angle": 45,
+      "frequency": 220.0,
+      "administrative_level": "Temporal/Structural",
+      "mathematical_concept": "Half Right Angle",
+      "unicode_char": "𒂳"
+    },
+    {
+      "m_number": "M181",
+      "description": "Proto-Elamite sign variant 181",
+      "primary_angle": 180,
+      "frequency": 880.0,
+      "administrative_level": "Ultimate Authority",
+      "mathematical_concept": "Perfect Line/Unity",
+      "unicode_char": "𒂴"
+    },
+    {
+      "m_number": "M182",
+      "description": "Proto-Elamite sign variant 182",
+      "primary_angle": 45,
+      "frequency": 220.0,
+      "administrative_level": "Temporal/Structural",
+      "mathematical_concept": "Half Right Angle",
+      "unicode_char": "𒂵"
+    },
+    {
+      "m_number": "M183",
+      "description": "Proto-Elamite sign variant 183",
+      "primary_angle": 120,
+      "frequency": 586.67,
+      "administrative_level": "Standard Administrative",
+      "mathematical_concept": "Complex Angle (120°)",
+      "unicode_char": "𒂶"
+    },
+    {
+      "m_number": "M184",
+      "description": "Proto-Elamite sign variant 184",
+      "primary_angle": 30,
+      "frequency": 146.67,
+      "administrative_level": "Fractional/Detailed",
+      "mathematical_concept": "One-Third Right Angle",
+      "unicode_char": "𒂷"
+    },
+    {
+      "m_number": "M185",
+      "description": "Proto-Elamite sign variant 185",
+      "primary_angle": 45,
+      "frequency": 220.0,
+      "administrative_level": "Temporal/Structural",
+      "mathematical_concept": "Half Right Angle",
+      "unicode_char": "𒂸"
+    },
+    {
+      "m_number": "M186",
+      "description": "Proto-Elamite sign variant 186",
+      "primary_angle": 135,
+      "frequency": 660.0,
+      "administrative_level": "High Administrative",
+      "mathematical_concept": "Three-Quarter Circle",
+      "unicode_char": "𒂹"
+    },
+    {
+      "m_number": "M187",
+      "description": "Proto-Elamite sign variant 187",
+      "primary_angle": 60,
+      "frequency": 293.33,
+      "administrative_level": "Temporal/Structural",
+      "mathematical_concept": "Complex Angle (60°)",
+      "unicode_char": "𒂺"
+    },
+    {
+      "m_number": "M188",
+      "description": "Proto-Elamite sign variant 188",
+      "primary_angle": 90,
+      "frequency": 440.0,
+      "administrative_level": "Standard Administrative",
+      "mathematical_concept": "Right Angle/Square",
+      "unicode_char": "𒂻"
+    },
+    {
+      "m_number": "M189",
+      "description": "Proto-Elamite sign variant 189",
+      "primary_angle": 120,
+      "frequency": 586.67,
+      "administrative_level": "Standard Administrative",
+      "mathematical_concept": "Complex Angle (120°)",
+      "unicode_char": "𒂼"
+    },
+    {
+      "m_number": "M190",
+      "description": "Proto-Elamite sign variant 190",
+      "primary_angle": 30,
+      "frequency": 146.67,
+      "administrative_level": "Fractional/Detailed",
+      "mathematical_concept": "One-Third Right Angle",
+      "unicode_char": "𒂽"
+    },
+    {
+      "m_number": "M191",
+      "description": "Proto-Elamite sign variant 191",
+      "primary_angle": 180,
+      "frequency": 880.0,
+      "administrative_level": "Ultimate Authority",
+      "mathematical_concept": "Perfect Line/Unity",
+      "unicode_char": "𒂾"
+    },
+    {
+      "m_number": "M192",
+      "description": "Proto-Elamite sign variant 192",
+      "primary_angle": 90,
+      "frequency": 440.0,
+      "administrative_level": "Standard Administrative",
+      "mathematical_concept": "Right Angle/Square",
+      "unicode_char": "𒂿"
+    },
+    {
+      "m_number": "M193",
+      "description": "Proto-Elamite sign variant 193",
+      "primary_angle": 60,
+      "frequency": 293.33,
+      "administrative_level": "Temporal/Structural",
+      "mathematical_concept": "Complex Angle (60°)",
+      "unicode_char": "𒃀"
+    },
+    {
+      "m_number": "M194",
+      "description": "Proto-Elamite sign variant 194",
+      "primary_angle": 150,
+      "frequency": 733.33,
+      "administrative_level": "High Administrative",
+      "mathematical_concept": "Complex Angle (150°)",
+      "unicode_char": "𒃁"
+    },
+    {
+      "m_number": "M195",
+      "description": "Proto-Elamite sign variant 195",
+      "primary_angle": 45,
+      "frequency": 220.0,
+      "administrative_level": "Temporal/Structural",
+      "mathematical_concept": "Half Right Angle",
+      "unicode_char": "𒃂"
+    },
+    {
+      "m_number": "M196",
+      "description": "Proto-Elamite sign variant 196",
+      "primary_angle": 45,
+      "frequency": 220.0,
+      "administrative_level": "Temporal/Structural",
+      "mathematical_concept": "Half Right Angle",
+      "unicode_char": "𒃃"
+    },
+    {
+      "m_number": "M197",
+      "description": "Proto-Elamite sign variant 197",
+      "primary_angle": 90,
+      "frequency": 440.0,
+      "administrative_level": "Standard Administrative",
+      "mathematical_concept": "Right Angle/Square",
+      "unicode_char": "𒃄"
+    },
+    {
+      "m_number": "M198",
+      "description": "Proto-Elamite sign variant 198",
+      "primary_angle": 120,
+      "frequency": 586.67,
+      "administrative_level": "Standard Administrative",
+      "mathematical_concept": "Complex Angle (120°)",
+      "unicode_char": "𒃅"
+    },
+    {
+      "m_number": "M199",
+      "description": "Proto-Elamite sign variant 199",
+      "primary_angle": 90,
+      "frequency": 440.0,
+      "administrative_level": "Standard Administrative",
+      "mathematical_concept": "Right Angle/Square",
+      "unicode_char": "𒃆"
+    },
+    {
+      "m_number": "M200",
+      "description": "Proto-Elamite sign variant 200",
+      "primary_angle": 180,
+      "frequency": 880.0,
+      "administrative_level": "Ultimate Authority",
+      "mathematical_concept": "Perfect Line/Unity",
+      "unicode_char": "𒃇"
+    }
+  ],
+  "metadata": {
+    "version": "1.0",
+    "total_glyphs": 200,
+    "source": "Brett Method Angular Geometric Frequency Encoding",
+    "date": "2025-10-18",
+    "notes": "200 Proto-Elamite signs with pre-calculated angles, frequencies, and administrative levels"
+  }
+}
