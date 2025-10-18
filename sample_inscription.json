@@ -1,0 +1,30 @@
+{
+  "inscription_id": "MDP_06_215",
+  "site": "Susa",
+  "date": "3100-2900 BCE",
+  "type": "Administrative tablet",
+  "signs": [
+    {"m_number": "M157"},
+    {"m_number": "M019"},
+    {"m_number": "M139"},
+    {"m_number": "M088"},
+    {"m_number": "M076"},
+    {"m_number": "M003"},
+    {"m_number": "M011"},
+    {"m_number": "M076"},
+    {"m_number": "M146"},
+    {"m_number": "M032"},
+    {"m_number": "M021"},
+    {"m_number": "M005"},
+    {"m_number": "M149"},
+    {"m_number": "M074"},
+    {"m_number": "M023"},
+    {"m_number": "M076"},
+    {"m_number": "M003"},
+    {"m_number": "M149"},
+    {"m_number": "M023"},
+    {"m_number": "M090"}
+  ],
+  "numerals": ["1(N14)", "2(N14)", "10(N14)", "5(N39B)"],
+  "context": "trade"
+}
